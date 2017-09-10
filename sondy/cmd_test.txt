@@ -1,0 +1,5 @@
+$ cd /Users/songwu/Sondy/projects/wsPython/machineLearningInAction/sondy
+$ python2
+
+>>> import kNN
+>>> group, labels = kNN.createDataSet()
